@@ -29,7 +29,7 @@ This function returns the list of files in specified directory. It does not list
       // for example, for EUCLIDIANDIVISION:
       // 'sig' [ [ [ 'a:LONG' 'b:LONG' ] [ 'q:LONG' 'r:LONG' ] ] ]
       
-      [ [ 'path:STRING' ]  [ 'files:LIST<STRING>' ] ] 
+      [ [ 'path:STRING' ]  [ 'files:LIST' ] ] 
 
     ]
 
@@ -45,7 +45,7 @@ This function returns the list of files in specified directory. It does not list
 
     'params' {
       'path' 'Path to list. To list the root directory, simply use "./"'
-      'files' 'List of file names'
+      'files' 'List of file names (LIST of STRING)'
     }
 
     // relate do other interesting/close WarpScript functions
