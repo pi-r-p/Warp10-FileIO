@@ -7,7 +7,7 @@
   "author": "Pierre Papin",
   "email": "pierre@couincouin.fr",
   "license": "Apache-2.0",
-  "git": "fuuuuuuu",
+  "git": "https://github.com/pi-r-p/Warp10-FileIO",
   "repoUrl": "https://dl.bintray.com/fr-couincouin/Warp10-extensions",
   "tags": [
     "filesystem"
