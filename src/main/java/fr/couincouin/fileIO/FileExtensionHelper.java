@@ -3,7 +3,7 @@ package fr.couincouin.fileIO;
 import io.warp10.script.WarpScriptException;
 
 public class FileExtensionHelper {
-  public static final String FILE_ROOTPATH = "ext.fileIO.rootPath";
+  public static final String FILE_ROOTPATH = "fr.couincouin.fileIOextension.rootPath";
 
   public void ForbiddenPathDetection(String path) throws WarpScriptException {
     if (path.matches(".*\\.(\\.+)[\\\\/].*")) {
