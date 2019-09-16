@@ -3,7 +3,7 @@
   "group": "fr.couincouin",
   "artifact": "FileIO",
   "version": "1.0.0",
-  "description": "Extension to read or write files",
+  "description": "Extension to read or write files from within WarpScript",
   "author": "Pierre Papin",
   "email": "pierre@couincouin.fr",
   "license": "Apache-2.0",
