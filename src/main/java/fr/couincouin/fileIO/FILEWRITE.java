@@ -1,6 +1,5 @@
 package fr.couincouin.fileIO;
 
-import fr.couincouin.FileExtensionHelper;
 import io.warp10.WarpConfig;
 import io.warp10.script.NamedWarpScriptFunction;
 import io.warp10.script.WarpScriptException;

@@ -14,9 +14,8 @@
 //   limitations under the License.
 //
 
-package fr.couincouin;
+package fr.couincouin.fileIO;
 
-import fr.couincouin.fileIO.FILEWRITE;
 import io.warp10.warp.sdk.WarpScriptExtension;
 
 import java.util.HashMap;

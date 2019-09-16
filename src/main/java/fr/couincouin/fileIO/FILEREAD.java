@@ -1,4 +1,4 @@
-package fr.couincouin;
+package fr.couincouin.fileIO;
 
 import io.warp10.WarpConfig;
 import io.warp10.script.NamedWarpScriptFunction;
