@@ -44,6 +44,7 @@ public class FileIOExtension extends WarpScriptExtension {
     functions.put("FILEDELETE", new FILEDELETE("FILEDELETE"));
     functions.put("FILELIST", new FILELIST("FILELIST"));
     functions.put("FILEDF", new FILEDF("FILEDF"));
+    functions.put("FILESIZE", new FILESIZE("FILESIZE"));
   }
 
   public Map<String, Object> getFunctions() {
